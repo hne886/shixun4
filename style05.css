@@ -69,7 +69,7 @@ a{
 	float: left;
 	margin-right: 15px;
 }
-.banner ..list li a{
+.banner .list li a{
 	float: left;
 	line-height: 30px;
 	color: #404042;
